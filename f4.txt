@@ -1,1 +1,6 @@
 This is file4.txt
+
+
+
+class f4{
+}
