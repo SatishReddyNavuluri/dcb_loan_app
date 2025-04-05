@@ -1,1 +1,6 @@
 F2.txt
+
+class f2{
+public static void main(String[]args){
+}
+}
